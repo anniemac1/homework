@@ -1,0 +1,7 @@
+name: homework-5-git-basics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytest=7.4.0
+  - python=3.12.0
